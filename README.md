@@ -17,9 +17,7 @@ This is a simple Java-based Address Book application with a graphical user inter
 
 ## 🖼️ Interface
 
-Here are two screenshots of the interface:
-
-| ![Main Interface](interface1.png) | ![Add Person Form](interface2.png) |
+| ![Main Interface](interface1.png) | ![List Person Form](interface2.png) |
 | ------------------------------------------------- | ---------------------------------------------------- |
 
 
